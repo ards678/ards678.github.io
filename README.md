@@ -1,2 +1,1 @@
-# ards678.github.io
-My portfolio site
+https://ards678.github.io/
